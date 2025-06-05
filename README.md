@@ -24,6 +24,8 @@
 
 ## 🎬 Quick Demo
 
+![Squid Game Simulator Demo](Untitled%20design.gif) 
+
 ```bash
    _____       _      _____                       _ 
   / ____|     | |    |  __ \                     (_)
