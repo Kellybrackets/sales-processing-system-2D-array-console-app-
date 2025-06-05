@@ -24,7 +24,7 @@
 
 ## 🎬 Quick Demo
 
-![Squid Game Simulator Demo](Untitled%20design.gif) 
+![Squid Game Simulator Demo](csharpsales.gif) 
 
 ```bash
    _____       _      _____                       _ 
